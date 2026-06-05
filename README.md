@@ -1,4 +1,4 @@
-# BVS Master Deck
+# Bleu Venture Studios
 
 Static GitHub Pages package for the BVS Master Deck offline HTML export.
 
